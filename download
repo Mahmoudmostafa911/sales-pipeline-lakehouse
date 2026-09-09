@@ -1,0 +1,19 @@
+# local Spark / Delta artefacts
+lakehouse/
+metastore_db/
+spark-warehouse/
+derby.log
+*.crc
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# Power BI project caches (keep the .pbip, .tmdl and report json)
+*.pbix
+**/.pbi/cache.abf
+**/.pbi/localSettings.json

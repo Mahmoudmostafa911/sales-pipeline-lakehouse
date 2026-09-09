@@ -1,0 +1,501 @@
+account_id,account_name,industry,country,region,segment,employee_band,created_date,owner_seller_id
+A0001,Prime Hotels LLC,Energy,Saudi Arabia,EMEA,Mid-Market,250-999,2022-12-20,S040
+A0002,North Labs Holdings,Retail,United States,Americas,Mid-Market,250-999,2021-10-21,S016
+A0003,Coral Markets Co.,Energy,Germany,EMEA,SMB,50-249,2021-02-12,S027
+A0004,Orbit Labs Inc.,Hospitality,Netherlands,EMEA,Mid-Market,250-999,2024-08-21,S040
+A0005,Lumen Industries Co.,Logistics,India,APAC,SMB,50-249,2024-06-02,S032
+A0006,Sahara Learning S.A.,Professional Services,Egypt,EMEA,Mid-Market,250-999,2023-03-04,S015
+A0007,Prime Logistics Co.,Financial Services,Egypt,EMEA,SMB,50-249,2021-01-23,S004
+A0008,Falcon Capital Holdings,Manufacturing,Brazil,Americas,Mid-Market,1000-4999,2021-05-20,S005
+A0009,Harbor Clinics Co.,Logistics,Saudi Arabia,EMEA,SMB,50-249,2021-06-23,S031
+A0010,Atlas Clinics Ltd,Hospitality,Germany,EMEA,SMB,50-249,2024-01-18,S020
+A0011,Vertex Studios Co.,Healthcare,India,APAC,SMB,50-249,2021-11-12,S019
+A0012,Coral Retail Inc.,Technology,Saudi Arabia,EMEA,SMB,10-49,2022-01-24,S008
+A0013,Pioneer Pharma Holdings,Technology,Canada,Americas,SMB,10-49,2024-08-28,S022
+A0014,Harbor Learning S.A.,Technology,Canada,Americas,Mid-Market,250-999,2024-09-21,S033
+A0015,Nile Health GmbH,Financial Services,United Kingdom,EMEA,SMB,10-49,2024-03-29,S020
+A0016,North Freight LLC,Financial Services,Japan,APAC,Mid-Market,250-999,2022-04-26,S024
+A0017,Nova Clinics GmbH,Education,Canada,Americas,SMB,10-49,2023-06-19,S026
+A0018,Delta Logistics LLC,Hospitality,Mexico,Americas,Mid-Market,250-999,2021-11-07,S009
+A0019,Coral Textiles Holdings,Energy,United Kingdom,EMEA,SMB,50-249,2024-08-23,S004
+A0020,Silver Energy LLC,Education,Canada,Americas,Mid-Market,250-999,2021-05-12,S033
+A0021,Summit Motors Group,Energy,India,APAC,SMB,10-49,2024-02-29,S023
+A0022,Summit Capital Co.,Logistics,Canada,Americas,SMB,50-249,2023-03-05,S029
+A0023,Atlas Studios S.A.,Financial Services,Brazil,Americas,Mid-Market,250-999,2024-03-20,S009
+A0024,Prime Labs Holdings,Retail,India,APAC,SMB,50-249,2022-12-01,S019
+A0025,Blue Studios Holdings,Professional Services,Mexico,Americas,SMB,10-49,2021-09-03,S039
+A0026,Sahara Systems Co.,Professional Services,Canada,Americas,Mid-Market,250-999,2024-03-11,S009
+A0027,Orbit Pharma Inc.,Energy,Mexico,Americas,Mid-Market,250-999,2023-09-06,S016
+A0028,Lumen Textiles Co.,Technology,Brazil,Americas,SMB,10-49,2022-12-22,S011
+A0029,Orbit Logistics Ltd,Retail,Canada,Americas,SMB,10-49,2022-08-02,S022
+A0030,Zenith Studios Inc.,Logistics,United States,Americas,Mid-Market,250-999,2022-06-18,S033
+A0031,Prime Capital LLC,Technology,Brazil,Americas,Mid-Market,250-999,2023-01-17,S005
+A0032,Summit Consulting Ltd,Education,Canada,Americas,Mid-Market,250-999,2022-02-10,S005
+A0033,Sahara Textiles GmbH,Education,United Arab Emirates,EMEA,SMB,50-249,2022-03-14,S030
+A0034,Orbit Logistics S.A.,Hospitality,South Africa,EMEA,Mid-Market,250-999,2022-03-08,S015
+A0035,Orbit Consulting Group,Professional Services,Canada,Americas,SMB,10-49,2021-01-20,S022
+A0036,Silver Health Inc.,Professional Services,United States,Americas,Mid-Market,1000-4999,2024-12-10,S016
+A0037,Nile Energy Ltd,Education,Germany,EMEA,SMB,10-49,2022-01-02,S007
+A0038,Zenith Hotels LLC,Healthcare,Singapore,APAC,Mid-Market,250-999,2021-09-14,S003
+A0039,Lumen Consulting Holdings,Logistics,Japan,APAC,SMB,10-49,2021-08-23,S012
+A0040,Atlas Motors Inc.,Energy,Brazil,Americas,SMB,10-49,2025-03-13,S011
+A0041,Silver Media Ltd,Professional Services,United States,Americas,Mid-Market,250-999,2023-01-10,S005
+A0042,Lumen Capital Holdings,Technology,United States,Americas,SMB,50-249,2022-05-23,S034
+A0043,Nova Systems Inc.,Manufacturing,Brazil,Americas,Mid-Market,250-999,2022-09-19,S009
+A0044,Falcon Labs Ltd,Energy,Egypt,EMEA,SMB,10-49,2021-05-18,S001
+A0045,Silver Systems GmbH,Healthcare,Saudi Arabia,EMEA,Mid-Market,1000-4999,2022-05-02,S002
+A0046,Harbor Markets Ltd,Energy,United States,Americas,SMB,50-249,2022-01-21,S028
+A0047,Sahara Pharma Inc.,Education,United States,Americas,SMB,50-249,2024-05-30,S037
+A0048,Falcon Health Co.,Energy,South Africa,EMEA,SMB,50-249,2021-04-01,S008
+A0049,Silver Textiles Co.,Hospitality,United States,Americas,SMB,10-49,2022-10-22,S011
+A0050,Lumen Consulting S.A.,Technology,India,APAC,SMB,50-249,2024-05-10,S012
+A0051,Harbor Logistics Co.,Energy,Mexico,Americas,Mid-Market,1000-4999,2024-07-16,S009
+A0052,North Media Co.,Professional Services,India,APAC,Mid-Market,250-999,2023-03-06,S003
+A0053,North Labs S.A.,Hospitality,Mexico,Americas,Mid-Market,1000-4999,2021-12-12,S033
+A0054,Blue Learning Inc.,Manufacturing,India,APAC,SMB,10-49,2022-06-07,S032
+A0055,Lumen Capital S.A.,Retail,India,APAC,SMB,10-49,2021-12-11,S019
+A0056,Sahara Energy Inc.,Logistics,India,APAC,SMB,10-49,2023-10-24,S032
+A0057,Prime Pharma GmbH,Hospitality,Australia,APAC,Mid-Market,250-999,2022-03-30,S006
+A0058,Falcon Clinics Group,Technology,United Kingdom,EMEA,Mid-Market,250-999,2023-09-06,S002
+A0059,Coral Health LLC,Logistics,Germany,EMEA,SMB,10-49,2023-10-14,S035
+A0060,Coral Energy Ltd,Logistics,United Arab Emirates,EMEA,Mid-Market,1000-4999,2024-12-28,S040
+A0061,Atlas Clinics GmbH,Professional Services,United States,Americas,SMB,10-49,2022-07-29,S026
+A0062,North Freight LLC 61,Hospitality,United Kingdom,EMEA,SMB,10-49,2025-01-30,S020
+A0063,Summit Logistics Inc.,Hospitality,United Arab Emirates,EMEA,SMB,10-49,2022-09-14,S004
+A0064,Cedar Markets GmbH,Manufacturing,Australia,APAC,SMB,10-49,2023-11-22,S023
+A0065,Silver Foods LLC,Logistics,France,EMEA,Mid-Market,250-999,2023-10-24,S025
+A0066,Harbor Retail S.A.,Financial Services,Mexico,Americas,Mid-Market,1000-4999,2024-06-22,S016
+A0067,Nile Capital Co.,Technology,Germany,EMEA,SMB,10-49,2022-12-29,S020
+A0068,Nile Capital Co. 67,Logistics,United States,Americas,SMB,50-249,2024-05-14,S036
+A0069,Nile Health Group,Energy,Canada,Americas,Mid-Market,250-999,2022-07-06,S016
+A0070,Atlas Freight Holdings,Education,Netherlands,EMEA,Mid-Market,1000-4999,2023-02-02,S038
+A0071,Harbor Retail GmbH,Professional Services,United Kingdom,EMEA,Mid-Market,250-999,2023-02-14,S013
+A0072,Cedar Studios Holdings,Manufacturing,Brazil,Americas,SMB,50-249,2023-12-29,S028
+A0073,Vertex Labs S.A.,Energy,Canada,Americas,Mid-Market,250-999,2023-08-18,S009
+A0074,Cedar Clinics Co.,Manufacturing,United States,Americas,SMB,50-249,2021-05-02,S029
+A0075,Orbit Media Co.,Financial Services,Mexico,Americas,Mid-Market,1000-4999,2024-06-08,S005
+A0076,Pioneer Media Ltd,Hospitality,Mexico,Americas,SMB,10-49,2024-03-21,S026
+A0077,Delta Health S.A.,Energy,South Africa,EMEA,Mid-Market,1000-4999,2021-06-12,S040
+A0078,Lumen Clinics LLC,Education,Mexico,Americas,SMB,10-49,2025-01-31,S018
+A0079,Pioneer Learning Ltd,Education,Singapore,APAC,SMB,10-49,2023-10-22,S023
+A0080,Summit Consulting Holdings,Retail,Singapore,APAC,Mid-Market,1000-4999,2021-05-12,S014
+A0081,Coral Clinics Inc.,Energy,United Arab Emirates,EMEA,Mid-Market,250-999,2023-02-02,S021
+A0082,Harbor Consulting Group,Retail,Mexico,Americas,SMB,50-249,2024-07-20,S011
+A0083,North Systems LLC,Retail,United Kingdom,EMEA,Mid-Market,1000-4999,2022-03-11,S002
+A0084,Harbor Systems LLC,Education,Singapore,APAC,Mid-Market,250-999,2024-12-18,S006
+A0085,Summit Markets Inc.,Retail,South Africa,EMEA,SMB,10-49,2022-10-11,S004
+A0086,Sahara Studios Holdings,Manufacturing,Australia,APAC,SMB,50-249,2021-12-17,S012
+A0087,Summit Markets Holdings,Professional Services,South Africa,EMEA,SMB,50-249,2022-07-07,S004
+A0088,Zenith Energy LLC,Technology,South Africa,EMEA,Mid-Market,250-999,2023-03-25,S013
+A0089,Vertex Studios Holdings,Healthcare,United States,Americas,SMB,50-249,2023-12-04,S037
+A0090,Vertex Health S.A.,Technology,Saudi Arabia,EMEA,SMB,50-249,2024-12-10,S027
+A0091,Granite Motors GmbH,Professional Services,Brazil,Americas,Mid-Market,250-999,2021-10-30,S005
+A0092,Nova Retail GmbH,Healthcare,Netherlands,EMEA,Mid-Market,250-999,2025-01-29,S025
+A0093,Falcon Industries Holdings,Technology,India,APAC,Mid-Market,250-999,2023-03-30,S003
+A0094,North Motors S.A.,Logistics,Canada,Americas,Mid-Market,250-999,2021-07-18,S009
+A0095,Sahara Markets Inc.,Hospitality,United Kingdom,EMEA,Mid-Market,250-999,2024-12-07,S002
+A0096,Lumen Learning Inc.,Manufacturing,Mexico,Americas,Mid-Market,250-999,2022-06-26,S005
+A0097,Prime Hotels LLC 96,Healthcare,Egypt,EMEA,Mid-Market,250-999,2023-08-21,S002
+A0098,Harbor Pharma LLC,Financial Services,Brazil,Americas,SMB,10-49,2023-12-19,S028
+A0099,Silver Clinics S.A.,Financial Services,Singapore,APAC,SMB,10-49,2021-01-21,S019
+A0100,Prime Freight Co.,Hospitality,United States,Americas,SMB,10-49,2021-12-10,S026
+A0101,Sahara Capital Holdings,Technology,Australia,APAC,Mid-Market,1000-4999,2023-12-01,S014
+A0102,Vertex Systems Group,Logistics,Singapore,APAC,SMB,50-249,2022-05-19,S023
+A0103,Atlas Systems Group,Logistics,France,EMEA,SMB,10-49,2021-01-15,S030
+A0104,Nile Consulting Co.,Hospitality,Saudi Arabia,EMEA,SMB,50-249,2021-02-06,S020
+A0105,Coral Capital Ltd,Education,Netherlands,EMEA,SMB,50-249,2024-07-05,S020
+A0106,Falcon Foods Group,Healthcare,India,APAC,SMB,10-49,2021-08-27,S019
+A0107,North Labs LLC,Manufacturing,Mexico,Americas,Mid-Market,250-999,2021-06-05,S005
+A0108,Cedar Industries Group,Financial Services,Egypt,EMEA,Mid-Market,250-999,2023-05-23,S021
+A0109,Summit Freight Ltd,Professional Services,Brazil,Americas,SMB,10-49,2021-07-04,S011
+A0110,Harbor Studios Holdings,Education,Saudi Arabia,EMEA,SMB,50-249,2023-10-10,S035
+A0111,Silver Energy S.A.,Education,Canada,Americas,SMB,10-49,2023-04-24,S026
+A0112,Vertex Textiles Ltd,Education,Egypt,EMEA,Mid-Market,1000-4999,2023-10-04,S038
+A0113,Pioneer Industries GmbH,Energy,France,EMEA,Mid-Market,1000-4999,2023-02-02,S040
+A0114,Sahara Learning S.A. 113,Energy,United Arab Emirates,EMEA,SMB,10-49,2024-04-22,S017
+A0115,Coral Energy Inc.,Manufacturing,France,EMEA,Mid-Market,1000-4999,2023-09-28,S040
+A0116,Silver Foods S.A.,Manufacturing,France,EMEA,SMB,50-249,2022-10-07,S017
+A0117,Vertex Clinics S.A.,Healthcare,Netherlands,EMEA,SMB,10-49,2021-01-24,S004
+A0118,Nile Pharma Ltd,Hospitality,France,EMEA,Mid-Market,250-999,2022-03-01,S002
+A0119,Granite Motors S.A.,Education,Saudi Arabia,EMEA,SMB,10-49,2021-07-23,S004
+A0120,Harbor Consulting Inc.,Hospitality,Australia,APAC,SMB,10-49,2021-01-25,S032
+A0121,Vertex Hotels GmbH,Professional Services,Mexico,Americas,SMB,50-249,2022-02-28,S028
+A0122,Summit Media S.A.,Logistics,Canada,Americas,Mid-Market,250-999,2021-11-17,S009
+A0123,Nova Motors LLC,Healthcare,United States,Americas,Mid-Market,250-999,2021-04-30,S009
+A0124,Orbit Health S.A.,Financial Services,South Africa,EMEA,Mid-Market,250-999,2022-04-30,S013
+A0125,Pioneer Clinics Co.,Manufacturing,United Arab Emirates,EMEA,SMB,10-49,2023-02-25,S031
+A0126,Granite Retail GmbH,Logistics,United Kingdom,EMEA,SMB,10-49,2021-10-04,S035
+A0127,Falcon Clinics Inc.,Healthcare,United Arab Emirates,EMEA,Mid-Market,250-999,2022-02-28,S002
+A0128,Nile Systems LLC,Healthcare,United States,Americas,SMB,50-249,2021-02-01,S036
+A0129,North Motors Co.,Retail,Japan,APAC,Mid-Market,250-999,2021-03-20,S006
+A0130,Atlas Capital Co.,Technology,United Arab Emirates,EMEA,Mid-Market,250-999,2021-09-02,S002
+A0131,Summit Industries Co.,Energy,Brazil,Americas,SMB,10-49,2022-12-04,S039
+A0132,Falcon Foods GmbH,Education,Brazil,Americas,Mid-Market,250-999,2023-10-31,S005
+A0133,Harbor Textiles LLC,Logistics,United States,Americas,SMB,10-49,2024-05-07,S022
+A0134,Coral Energy S.A.,Energy,United States,Americas,SMB,10-49,2023-09-04,S011
+A0135,North Markets LLC,Logistics,Mexico,Americas,SMB,50-249,2023-08-15,S028
+A0136,Zenith Media Group,Professional Services,Australia,APAC,SMB,10-49,2024-12-22,S023
+A0137,Prime Foods Group,Education,Egypt,EMEA,Mid-Market,250-999,2022-02-01,S015
+A0138,Sahara Textiles Ltd,Logistics,Mexico,Americas,Mid-Market,250-999,2024-05-22,S005
+A0139,Coral Energy Holdings,Logistics,Saudi Arabia,EMEA,Mid-Market,250-999,2024-12-24,S002
+A0140,Nile Markets Co.,Technology,Egypt,EMEA,Mid-Market,250-999,2023-05-31,S040
+A0141,Falcon Textiles Ltd,Professional Services,Japan,APAC,SMB,50-249,2024-07-27,S032
+A0142,Summit Freight Group,Logistics,Egypt,EMEA,SMB,50-249,2021-08-02,S035
+A0143,Vertex Freight Ltd,Retail,United Kingdom,EMEA,Mid-Market,1000-4999,2024-09-24,S021
+A0144,Harbor Textiles Holdings,Energy,Mexico,Americas,Mid-Market,250-999,2023-05-25,S016
+A0145,Nova Industries GmbH,Hospitality,Australia,APAC,SMB,10-49,2021-12-10,S032
+A0146,Prime Motors Co.,Manufacturing,United Kingdom,EMEA,SMB,10-49,2021-04-06,S020
+A0147,Sahara Labs Ltd,Healthcare,Singapore,APAC,SMB,50-249,2024-01-22,S019
+A0148,Silver Consulting LLC,Energy,United States,Americas,SMB,10-49,2022-10-31,S022
+A0149,Sahara Health Ltd,Financial Services,Australia,APAC,Mid-Market,1000-4999,2022-04-26,S006
+A0150,Nile Labs LLC,Hospitality,South Africa,EMEA,SMB,50-249,2022-08-29,S001
+A0151,Nova Textiles Inc.,Technology,United States,Americas,Mid-Market,250-999,2025-03-18,S005
+A0152,Zenith Hotels Ltd,Hospitality,South Africa,EMEA,Mid-Market,1000-4999,2022-10-26,S038
+A0153,Cedar Motors Inc.,Retail,Germany,EMEA,Mid-Market,1000-4999,2021-05-03,S040
+A0154,Orbit Studios Group,Education,Brazil,Americas,SMB,10-49,2022-03-11,S018
+A0155,Atlas Energy Co.,Logistics,United Arab Emirates,EMEA,SMB,10-49,2021-08-14,S004
+A0156,Cedar Hotels LLC,Hospitality,Australia,APAC,Mid-Market,250-999,2023-11-30,S003
+A0157,Atlas Freight Group,Healthcare,United States,Americas,Mid-Market,1000-4999,2024-05-26,S033
+A0158,Pioneer Consulting LLC,Financial Services,Saudi Arabia,EMEA,SMB,50-249,2024-07-28,S008
+A0159,Prime Energy Inc.,Manufacturing,France,EMEA,Mid-Market,250-999,2023-09-09,S015
+A0160,Nile Markets Ltd,Technology,United States,Americas,SMB,10-49,2024-04-06,S011
+A0161,Granite Systems LLC,Energy,Singapore,APAC,Mid-Market,250-999,2022-10-10,S024
+A0162,Vertex Logistics GmbH,Manufacturing,United Kingdom,EMEA,SMB,10-49,2023-09-01,S010
+A0163,Vertex Systems Inc.,Healthcare,United States,Americas,SMB,10-49,2021-06-15,S036
+A0164,Harbor Capital LLC,Financial Services,Singapore,APAC,SMB,50-249,2023-04-15,S023
+A0165,North Textiles GmbH,Hospitality,Singapore,APAC,SMB,10-49,2023-05-15,S012
+A0166,Granite Retail Inc.,Education,Brazil,Americas,SMB,10-49,2021-02-18,S037
+A0167,Zenith Retail GmbH,Healthcare,Japan,APAC,SMB,50-249,2023-05-01,S023
+A0168,Sahara Textiles LLC,Financial Services,Mexico,Americas,SMB,10-49,2024-01-27,S034
+A0169,Silver Capital Group,Logistics,India,APAC,Mid-Market,250-999,2022-07-25,S003
+A0170,Summit Media Group,Financial Services,Egypt,EMEA,SMB,10-49,2023-04-26,S031
+A0171,Prime Industries Group,Manufacturing,Egypt,EMEA,Mid-Market,250-999,2022-03-20,S040
+A0172,Prime Capital S.A.,Hospitality,Brazil,Americas,Mid-Market,250-999,2022-02-24,S009
+A0173,Zenith Logistics Holdings,Education,India,APAC,SMB,10-49,2021-07-20,S012
+A0174,Silver Logistics Co.,Healthcare,United States,Americas,SMB,50-249,2022-05-24,S037
+A0175,Orbit Clinics Ltd,Technology,Mexico,Americas,Mid-Market,250-999,2024-05-30,S033
+A0176,North Motors Holdings,Technology,Mexico,Americas,Mid-Market,1000-4999,2024-12-22,S016
+A0177,Cedar Capital Holdings,Manufacturing,Netherlands,EMEA,SMB,10-49,2023-09-13,S020
+A0178,Nile Textiles Co.,Retail,Canada,Americas,Mid-Market,250-999,2023-08-27,S005
+A0179,Orbit Learning Inc.,Retail,Australia,APAC,SMB,50-249,2023-08-11,S012
+A0180,Orbit Hotels Co.,Technology,United Kingdom,EMEA,SMB,10-49,2023-01-09,S035
+A0181,Pioneer Studios Inc.,Professional Services,United States,Americas,Mid-Market,250-999,2022-10-19,S009
+A0182,Delta Motors GmbH,Technology,Brazil,Americas,SMB,50-249,2023-08-22,S022
+A0183,Blue Retail Inc.,Professional Services,Brazil,Americas,Mid-Market,250-999,2024-05-01,S016
+A0184,Coral Textiles S.A.,Education,Germany,EMEA,SMB,50-249,2022-10-04,S001
+A0185,North Learning Ltd,Logistics,Japan,APAC,Mid-Market,250-999,2023-05-28,S003
+A0186,Sahara Clinics Holdings,Technology,Brazil,Americas,SMB,50-249,2022-12-31,S022
+A0187,Atlas Foods GmbH,Financial Services,Australia,APAC,SMB,10-49,2022-03-19,S019
+A0188,Pioneer Industries Holdings,Energy,Brazil,Americas,SMB,50-249,2022-03-27,S026
+A0189,Prime Logistics LLC,Hospitality,Japan,APAC,SMB,10-49,2021-05-03,S012
+A0190,Pioneer Pharma GmbH,Hospitality,Australia,APAC,Mid-Market,1000-4999,2022-11-14,S006
+A0191,Falcon Pharma Inc.,Energy,Saudi Arabia,EMEA,SMB,50-249,2024-01-11,S008
+A0192,Orbit Health GmbH,Financial Services,Netherlands,EMEA,SMB,50-249,2023-11-30,S017
+A0193,Orbit Health S.A. 192,Manufacturing,Australia,APAC,SMB,10-49,2025-03-09,S023
+A0194,Delta Capital Ltd,Education,Mexico,Americas,SMB,10-49,2021-03-03,S037
+A0195,North Pharma LLC,Technology,United States,Americas,Mid-Market,250-999,2024-03-25,S033
+A0196,Summit Consulting LLC,Technology,Canada,Americas,SMB,10-49,2024-05-18,S022
+A0197,Pioneer Learning LLC,Financial Services,South Africa,EMEA,Mid-Market,250-999,2022-11-08,S040
+A0198,Falcon Freight Inc.,Healthcare,United Kingdom,EMEA,SMB,50-249,2022-03-15,S017
+A0199,Vertex Studios S.A.,Education,South Africa,EMEA,Mid-Market,1000-4999,2022-07-08,S013
+A0200,Summit Textiles Group,Hospitality,India,APAC,SMB,50-249,2023-11-25,S019
+A0201,Granite Retail S.A.,Retail,United States,Americas,SMB,50-249,2024-08-30,S036
+A0202,Granite Industries Holdings,Financial Services,Netherlands,EMEA,Mid-Market,1000-4999,2023-09-24,S038
+A0203,Sahara Clinics Ltd,Healthcare,Canada,Americas,Mid-Market,250-999,2023-03-09,S009
+A0204,Vertex Textiles Co.,Hospitality,Brazil,Americas,Mid-Market,250-999,2023-10-10,S005
+A0205,Nile Energy Inc.,Education,Germany,EMEA,SMB,10-49,2021-04-20,S007
+A0206,Falcon Capital Group,Retail,Singapore,APAC,SMB,10-49,2023-08-02,S012
+A0207,Nova Labs Ltd,Healthcare,South Africa,EMEA,Mid-Market,250-999,2021-03-07,S025
+A0208,Harbor Pharma Ltd,Retail,United States,Americas,SMB,50-249,2025-01-27,S029
+A0209,Harbor Motors Inc.,Education,Netherlands,EMEA,Mid-Market,250-999,2024-10-11,S021
+A0210,Delta Systems LLC,Energy,Mexico,Americas,SMB,50-249,2023-02-28,S034
+A0211,Lumen Consulting Inc.,Logistics,Australia,APAC,SMB,50-249,2022-08-04,S032
+A0212,Granite Capital LLC,Hospitality,Germany,EMEA,Mid-Market,1000-4999,2024-02-10,S038
+A0213,Coral Foods Ltd,Technology,United States,Americas,Mid-Market,250-999,2023-09-16,S005
+A0214,Blue Industries Group,Hospitality,Brazil,Americas,SMB,10-49,2023-12-31,S029
+A0215,Silver Learning S.A.,Financial Services,Canada,Americas,SMB,50-249,2023-03-11,S037
+A0216,Blue Hotels Ltd,Energy,India,APAC,Mid-Market,1000-4999,2022-01-02,S024
+A0217,Harbor Motors Inc. 216,Healthcare,Saudi Arabia,EMEA,SMB,10-49,2021-04-24,S008
+A0218,Atlas Capital Inc.,Education,South Africa,EMEA,SMB,50-249,2022-03-16,S010
+A0219,Atlas Hotels Ltd,Professional Services,Saudi Arabia,EMEA,SMB,10-49,2023-04-01,S031
+A0220,Coral Capital GmbH,Healthcare,United Arab Emirates,EMEA,Mid-Market,1000-4999,2022-10-20,S002
+A0221,Falcon Learning Inc.,Healthcare,Brazil,Americas,Mid-Market,250-999,2023-02-25,S016
+A0222,North Markets Holdings,Manufacturing,India,APAC,SMB,50-249,2022-03-07,S012
+A0223,Zenith Labs Holdings,Retail,Mexico,Americas,SMB,50-249,2024-12-25,S037
+A0224,Granite Retail S.A. 223,Logistics,Netherlands,EMEA,SMB,10-49,2022-07-23,S001
+A0225,Silver Industries Group,Energy,South Africa,EMEA,SMB,50-249,2024-08-05,S001
+A0226,Sahara Textiles Co.,Healthcare,South Africa,EMEA,SMB,10-49,2022-08-30,S008
+A0227,Delta Industries Group,Education,India,APAC,SMB,50-249,2022-11-20,S012
+A0228,Harbor Textiles S.A.,Energy,United States,Americas,Mid-Market,1000-4999,2023-07-26,S009
+A0229,Silver Clinics Group,Technology,Saudi Arabia,EMEA,SMB,50-249,2022-02-13,S008
+A0230,Falcon Energy Co.,Retail,Germany,EMEA,SMB,10-49,2021-12-08,S008
+A0231,Zenith Pharma S.A.,Logistics,South Africa,EMEA,SMB,10-49,2022-08-12,S020
+A0232,Atlas Textiles GmbH,Manufacturing,Brazil,Americas,Mid-Market,250-999,2024-06-01,S016
+A0233,Lumen Logistics LLC,Healthcare,Brazil,Americas,Mid-Market,250-999,2021-08-13,S033
+A0234,Pioneer Energy S.A.,Healthcare,Mexico,Americas,SMB,10-49,2022-11-10,S028
+A0235,Orbit Hotels Group,Professional Services,Brazil,Americas,Mid-Market,250-999,2023-11-09,S016
+A0236,Silver Capital LLC,Manufacturing,Germany,EMEA,SMB,10-49,2024-01-01,S027
+A0237,Summit Motors Holdings,Healthcare,Germany,EMEA,SMB,50-249,2022-11-05,S004
+A0238,Silver Motors Ltd,Healthcare,United Kingdom,EMEA,Mid-Market,250-999,2021-05-07,S025
+A0239,North Capital Co.,Financial Services,Egypt,EMEA,SMB,10-49,2021-01-25,S031
+A0240,Summit Pharma S.A.,Professional Services,France,EMEA,SMB,50-249,2022-12-30,S008
+A0241,Atlas Hotels GmbH,Financial Services,Brazil,Americas,SMB,10-49,2024-06-10,S018
+A0242,Sahara Hotels GmbH,Financial Services,France,EMEA,SMB,50-249,2021-02-13,S008
+A0243,Orbit Capital GmbH,Logistics,Brazil,Americas,Mid-Market,1000-4999,2024-10-08,S009
+A0244,Coral Media Co.,Professional Services,Mexico,Americas,SMB,50-249,2023-11-15,S029
+A0245,Zenith Hotels LLC 244,Retail,South Africa,EMEA,SMB,50-249,2021-01-13,S031
+A0246,Granite Logistics S.A.,Hospitality,United Kingdom,EMEA,SMB,50-249,2022-06-18,S020
+A0247,Zenith Hotels Co.,Energy,Canada,Americas,SMB,10-49,2021-12-08,S018
+A0248,Orbit Industries GmbH,Professional Services,Egypt,EMEA,SMB,10-49,2025-01-12,S008
+A0249,Orbit Health S.A. 248,Logistics,Netherlands,EMEA,SMB,50-249,2023-05-11,S027
+A0250,Cedar Clinics Ltd,Professional Services,South Africa,EMEA,Mid-Market,250-999,2022-05-18,S015
+A0251,Sahara Hotels Co.,Education,France,EMEA,SMB,10-49,2022-03-08,S020
+A0252,Vertex Systems Holdings,Financial Services,Netherlands,EMEA,SMB,10-49,2023-05-25,S027
+A0253,Silver Logistics Group,Financial Services,Mexico,Americas,SMB,50-249,2021-01-08,S026
+A0254,Lumen Markets S.A.,Manufacturing,Netherlands,EMEA,SMB,50-249,2022-02-04,S027
+A0255,Blue Logistics S.A.,Hospitality,United Kingdom,EMEA,SMB,50-249,2021-09-14,S010
+A0256,Silver Studios Ltd,Financial Services,Egypt,EMEA,Mid-Market,250-999,2023-08-20,S002
+A0257,Nile Industries Ltd,Healthcare,Egypt,EMEA,SMB,10-49,2023-11-04,S010
+A0258,Atlas Health S.A.,Energy,United States,Americas,Mid-Market,250-999,2022-12-26,S009
+A0259,Nova Textiles Inc. 258,Logistics,Germany,EMEA,Mid-Market,250-999,2021-08-06,S002
+A0260,Blue Health LLC,Professional Services,France,EMEA,SMB,50-249,2022-07-29,S031
+A0261,Prime Retail GmbH,Healthcare,Singapore,APAC,SMB,10-49,2024-07-31,S023
+A0262,Orbit Consulting GmbH,Healthcare,India,APAC,SMB,50-249,2021-11-12,S012
+A0263,Harbor Textiles GmbH,Technology,United Arab Emirates,EMEA,Mid-Market,250-999,2021-09-11,S040
+A0264,Silver Hotels Ltd,Education,South Africa,EMEA,SMB,10-49,2021-06-22,S031
+A0265,Harbor Studios S.A.,Manufacturing,South Africa,EMEA,Mid-Market,250-999,2024-06-20,S002
+A0266,Delta Freight LLC,Hospitality,Canada,Americas,Mid-Market,1000-4999,2021-07-05,S005
+A0267,Prime Health Holdings,Education,Japan,APAC,Mid-Market,1000-4999,2023-06-22,S006
+A0268,Zenith Motors Inc.,Professional Services,France,EMEA,SMB,50-249,2025-03-30,S017
+A0269,Lumen Pharma Inc.,Financial Services,Mexico,Americas,Mid-Market,250-999,2023-09-23,S016
+A0270,Zenith Freight Ltd,Logistics,Mexico,Americas,SMB,10-49,2022-10-02,S028
+A0271,Summit Labs S.A.,Technology,Australia,APAC,SMB,10-49,2021-11-17,S023
+A0272,Silver Markets Inc.,Hospitality,Canada,Americas,SMB,10-49,2021-01-03,S011
+A0273,Vertex Hotels Ltd,Healthcare,Brazil,Americas,Mid-Market,250-999,2021-08-30,S016
+A0274,Summit Hotels Holdings,Professional Services,Canada,Americas,SMB,10-49,2025-01-17,S039
+A0275,Nova Health S.A.,Energy,Canada,Americas,Mid-Market,250-999,2021-08-11,S016
+A0276,Zenith Media S.A.,Professional Services,Brazil,Americas,SMB,50-249,2021-01-31,S028
+A0277,Falcon Pharma GmbH,Manufacturing,United Kingdom,EMEA,Mid-Market,250-999,2024-06-19,S015
+A0278,Zenith Motors Ltd,Manufacturing,Brazil,Americas,SMB,10-49,2022-10-12,S039
+A0279,Cedar Studios S.A.,Healthcare,Singapore,APAC,SMB,50-249,2022-07-08,S012
+A0280,Vertex Pharma Co.,Manufacturing,Singapore,APAC,Mid-Market,250-999,2024-01-18,S006
+A0281,Nile Health Inc.,Technology,United States,Americas,SMB,50-249,2023-03-23,S018
+A0282,Orbit Foods Co.,Energy,Brazil,Americas,SMB,50-249,2024-11-19,S037
+A0283,Delta Media GmbH,Logistics,United Kingdom,EMEA,SMB,50-249,2022-12-27,S017
+A0284,Prime Clinics LLC,Logistics,Mexico,Americas,SMB,50-249,2024-01-11,S039
+A0285,Atlas Markets Holdings,Technology,Brazil,Americas,SMB,10-49,2024-09-25,S034
+A0286,Blue Systems Co.,Education,Singapore,APAC,SMB,50-249,2022-12-21,S023
+A0287,Pioneer Labs Inc.,Education,India,APAC,SMB,10-49,2022-03-17,S023
+A0288,Blue Markets LLC,Logistics,United Arab Emirates,EMEA,Mid-Market,1000-4999,2025-02-20,S013
+A0289,Delta Learning Inc.,Financial Services,Canada,Americas,SMB,10-49,2021-12-18,S029
+A0290,North Foods Inc.,Retail,Germany,EMEA,SMB,10-49,2021-03-02,S027
+A0291,Atlas Learning S.A.,Logistics,Saudi Arabia,EMEA,SMB,50-249,2023-06-16,S035
+A0292,Vertex Media GmbH,Hospitality,Canada,Americas,SMB,10-49,2025-03-11,S029
+A0293,Nova Learning Inc.,Retail,Netherlands,EMEA,Mid-Market,1000-4999,2021-05-15,S040
+A0294,Vertex Motors LLC,Healthcare,United States,Americas,Mid-Market,250-999,2024-08-10,S033
+A0295,Coral Motors Co.,Healthcare,Canada,Americas,Mid-Market,250-999,2024-07-12,S016
+A0296,Nile Studios Co.,Hospitality,United Arab Emirates,EMEA,SMB,10-49,2024-12-11,S010
+A0297,Pioneer Media Co.,Logistics,Canada,Americas,SMB,50-249,2022-10-16,S018
+A0298,Nova Freight Ltd,Logistics,Brazil,Americas,SMB,50-249,2022-01-31,S022
+A0299,Coral Industries Co.,Professional Services,India,APAC,SMB,10-49,2023-03-06,S032
+A0300,Blue Foods Holdings,Healthcare,Singapore,APAC,SMB,50-249,2021-08-09,S012
+A0301,Sahara Industries LLC,Technology,Egypt,EMEA,Mid-Market,1000-4999,2024-07-31,S015
+A0302,Sahara Labs LLC,Retail,Japan,APAC,SMB,10-49,2023-10-26,S023
+A0303,Falcon Systems Co.,Manufacturing,Australia,APAC,SMB,50-249,2023-01-20,S012
+A0304,Cedar Health GmbH,Hospitality,United States,Americas,SMB,50-249,2023-03-12,S039
+A0305,Orbit Capital Ltd,Professional Services,United Arab Emirates,EMEA,SMB,10-49,2024-01-10,S027
+A0306,Zenith Pharma Holdings,Manufacturing,United States,Americas,SMB,50-249,2023-03-23,S011
+A0307,Coral Foods Ltd 306,Education,Canada,Americas,SMB,10-49,2024-07-26,S022
+A0308,Pioneer Foods LLC,Retail,Netherlands,EMEA,Mid-Market,250-999,2024-12-05,S038
+A0309,Harbor Studios Group,Professional Services,United Kingdom,EMEA,SMB,50-249,2025-01-13,S031
+A0310,Orbit Foods GmbH,Technology,South Africa,EMEA,SMB,50-249,2023-08-20,S035
+A0311,Falcon Foods Inc.,Healthcare,Canada,Americas,SMB,50-249,2024-02-26,S037
+A0312,Blue Consulting LLC,Financial Services,Canada,Americas,Mid-Market,250-999,2022-04-28,S005
+A0313,Falcon Studios LLC,Healthcare,Singapore,APAC,SMB,50-249,2021-03-01,S023
+A0314,Pioneer Learning Holdings,Financial Services,United States,Americas,Mid-Market,250-999,2022-09-13,S005
+A0315,Coral Health Co.,Healthcare,Mexico,Americas,Mid-Market,250-999,2024-09-14,S005
+A0316,Vertex Health GmbH,Healthcare,United States,Americas,SMB,10-49,2021-07-27,S034
+A0317,Coral Textiles GmbH,Education,Germany,EMEA,Mid-Market,250-999,2023-04-27,S021
+A0318,Nova Clinics GmbH 317,Hospitality,United Kingdom,EMEA,SMB,10-49,2021-10-26,S027
+A0319,Prime Motors Holdings,Technology,Egypt,EMEA,Mid-Market,1000-4999,2022-10-28,S038
+A0320,Prime Systems S.A.,Healthcare,Canada,Americas,SMB,10-49,2021-08-11,S011
+A0321,Prime Learning GmbH,Energy,Canada,Americas,Mid-Market,250-999,2024-02-14,S016
+A0322,Delta Systems Holdings,Healthcare,Singapore,APAC,SMB,50-249,2024-06-10,S032
+A0323,Coral Textiles S.A. 322,Energy,United Arab Emirates,EMEA,SMB,10-49,2024-03-22,S010
+A0324,Sahara Foods Co.,Financial Services,Egypt,EMEA,SMB,50-249,2023-12-30,S017
+A0325,Falcon Freight LLC,Logistics,Egypt,EMEA,Mid-Market,250-999,2021-12-31,S021
+A0326,Granite Pharma Holdings,Healthcare,Germany,EMEA,SMB,50-249,2023-04-03,S031
+A0327,Prime Pharma Group,Technology,United States,Americas,SMB,10-49,2021-06-12,S011
+A0328,Atlas Freight Ltd,Financial Services,Mexico,Americas,Mid-Market,250-999,2022-08-04,S033
+A0329,Granite Pharma LLC,Hospitality,United Arab Emirates,EMEA,Mid-Market,1000-4999,2023-02-24,S038
+A0330,North Freight LLC 329,Retail,Brazil,Americas,SMB,50-249,2023-11-03,S037
+A0331,Harbor Retail Holdings,Logistics,Australia,APAC,SMB,10-49,2021-05-31,S019
+A0332,Orbit Studios LLC,Manufacturing,Germany,EMEA,SMB,10-49,2024-06-14,S017
+A0333,Silver Pharma Inc.,Hospitality,South Africa,EMEA,Mid-Market,250-999,2022-12-13,S015
+A0334,Pioneer Studios Group,Education,India,APAC,SMB,50-249,2024-09-28,S019
+A0335,Delta Consulting Holdings,Professional Services,United Arab Emirates,EMEA,Mid-Market,1000-4999,2023-03-30,S040
+A0336,Orbit Markets Inc.,Hospitality,Singapore,APAC,SMB,10-49,2023-04-29,S023
+A0337,Blue Media Group,Logistics,United Arab Emirates,EMEA,SMB,10-49,2023-12-11,S027
+A0338,Falcon Health LLC,Retail,Singapore,APAC,SMB,50-249,2024-06-25,S012
+A0339,Nile Labs Group,Healthcare,Canada,Americas,SMB,10-49,2021-09-02,S036
+A0340,North Pharma Group,Healthcare,Netherlands,EMEA,Mid-Market,250-999,2023-03-05,S025
+A0341,Lumen Motors S.A.,Energy,Saudi Arabia,EMEA,SMB,50-249,2021-02-16,S035
+A0342,Silver Systems Co.,Energy,Mexico,Americas,SMB,10-49,2023-01-06,S018
+A0343,North Retail S.A.,Education,Mexico,Americas,Mid-Market,250-999,2024-06-15,S016
+A0344,Pioneer Learning Inc.,Hospitality,Japan,APAC,Mid-Market,250-999,2024-09-04,S014
+A0345,Orbit Health GmbH 344,Healthcare,Egypt,EMEA,Mid-Market,250-999,2022-03-16,S021
+A0346,North Capital Group,Professional Services,Mexico,Americas,SMB,10-49,2022-08-23,S011
+A0347,Atlas Systems GmbH,Financial Services,Brazil,Americas,SMB,10-49,2023-05-06,S028
+A0348,Nile Media Group,Healthcare,Mexico,Americas,Mid-Market,250-999,2022-09-07,S009
+A0349,Cedar Learning Inc.,Healthcare,Canada,Americas,SMB,50-249,2021-10-04,S034
+A0350,Atlas Markets Co.,Education,Japan,APAC,SMB,10-49,2022-04-18,S012
+A0351,Pioneer Studios LLC,Financial Services,United Kingdom,EMEA,Mid-Market,250-999,2022-09-19,S021
+A0352,North Motors GmbH,Healthcare,United States,Americas,SMB,10-49,2023-03-16,S034
+A0353,Cedar Industries S.A.,Financial Services,Germany,EMEA,SMB,50-249,2024-11-29,S001
+A0354,Summit Energy Co.,Manufacturing,United States,Americas,Mid-Market,1000-4999,2023-04-26,S033
+A0355,Vertex Media Ltd,Energy,Mexico,Americas,Mid-Market,250-999,2022-08-24,S016
+A0356,Vertex Foods GmbH,Financial Services,Saudi Arabia,EMEA,SMB,10-49,2023-10-22,S001
+A0357,Cedar Health S.A.,Manufacturing,United Arab Emirates,EMEA,SMB,50-249,2024-04-14,S001
+A0358,Atlas Clinics Group,Logistics,Australia,APAC,SMB,10-49,2022-10-30,S032
+A0359,Blue Pharma Co.,Hospitality,Germany,EMEA,SMB,50-249,2023-01-29,S008
+A0360,Summit Media Group 359,Financial Services,Egypt,EMEA,Mid-Market,250-999,2021-12-04,S040
+A0361,Summit Retail GmbH,Hospitality,Netherlands,EMEA,Mid-Market,1000-4999,2024-09-03,S021
+A0362,Atlas Energy LLC,Professional Services,Japan,APAC,SMB,10-49,2024-09-06,S019
+A0363,Delta Labs LLC,Technology,France,EMEA,SMB,50-249,2021-09-29,S008
+A0364,Granite Freight Inc.,Healthcare,Australia,APAC,Mid-Market,250-999,2022-06-21,S014
+A0365,Coral Logistics GmbH,Retail,Germany,EMEA,SMB,50-249,2022-02-26,S004
+A0366,Prime Motors Co. 365,Financial Services,Australia,APAC,SMB,10-49,2024-12-02,S019
+A0367,Nile Energy LLC,Energy,Brazil,Americas,SMB,10-49,2021-04-12,S026
+A0368,Coral Learning Group,Technology,United Arab Emirates,EMEA,Mid-Market,1000-4999,2021-11-18,S013
+A0369,Cedar Hotels S.A.,Technology,Egypt,EMEA,SMB,10-49,2022-05-04,S008
+A0370,Granite Industries Holdings 369,Hospitality,Saudi Arabia,EMEA,Mid-Market,1000-4999,2023-05-19,S021
+A0371,Prime Media GmbH,Financial Services,Germany,EMEA,SMB,50-249,2022-01-22,S027
+A0372,Lumen Learning Holdings,Financial Services,India,APAC,Mid-Market,250-999,2023-04-13,S003
+A0373,Pioneer Industries LLC,Energy,India,APAC,SMB,10-49,2024-03-04,S032
+A0374,Nile Media Ltd,Logistics,Mexico,Americas,SMB,50-249,2024-07-09,S037
+A0375,Sahara Pharma Ltd,Healthcare,Saudi Arabia,EMEA,SMB,50-249,2021-06-03,S027
+A0376,Pioneer Pharma Inc.,Healthcare,United Kingdom,EMEA,SMB,50-249,2021-08-04,S035
+A0377,Nile Media S.A.,Hospitality,Brazil,Americas,SMB,10-49,2021-05-28,S028
+A0378,Lumen Foods LLC,Retail,Brazil,Americas,SMB,10-49,2024-11-12,S037
+A0379,Sahara Industries Inc.,Retail,Brazil,Americas,SMB,50-249,2023-10-09,S036
+A0380,Atlas Industries Inc.,Technology,Saudi Arabia,EMEA,SMB,10-49,2023-04-05,S020
+A0381,Sahara Hotels LLC,Retail,Netherlands,EMEA,Mid-Market,250-999,2024-05-11,S013
+A0382,Silver Foods Holdings,Manufacturing,Singapore,APAC,SMB,50-249,2023-06-29,S023
+A0383,Nova Energy Ltd,Energy,Netherlands,EMEA,Mid-Market,250-999,2022-01-01,S040
+A0384,Cedar Studios S.A. 383,Education,Singapore,APAC,Mid-Market,250-999,2023-03-03,S024
+A0385,Falcon Foods LLC,Technology,Egypt,EMEA,SMB,50-249,2023-12-27,S010
+A0386,Granite Retail S.A. 385,Education,Netherlands,EMEA,Mid-Market,1000-4999,2021-02-25,S013
+A0387,Nova Logistics Inc.,Retail,United States,Americas,Mid-Market,250-999,2023-07-30,S016
+A0388,Zenith Retail Group,Manufacturing,Netherlands,EMEA,Mid-Market,250-999,2023-02-10,S002
+A0389,Orbit Freight Ltd,Technology,India,APAC,SMB,50-249,2021-04-18,S012
+A0390,Nile Logistics Holdings,Retail,India,APAC,SMB,10-49,2022-02-13,S023
+A0391,Falcon Consulting Ltd,Logistics,Australia,APAC,SMB,50-249,2022-11-27,S032
+A0392,Lumen Retail Inc.,Financial Services,Mexico,Americas,SMB,10-49,2022-06-16,S026
+A0393,Pioneer Systems LLC,Financial Services,Canada,Americas,Mid-Market,250-999,2022-03-26,S009
+A0394,Silver Industries Ltd,Energy,United States,Americas,Mid-Market,250-999,2023-10-04,S009
+A0395,Silver Learning GmbH,Professional Services,United States,Americas,SMB,10-49,2022-09-20,S028
+A0396,Pioneer Clinics Group,Professional Services,South Africa,EMEA,Mid-Market,1000-4999,2023-02-11,S002
+A0397,Orbit Consulting Holdings,Financial Services,France,EMEA,SMB,10-49,2024-05-23,S020
+A0398,Silver Media S.A.,Financial Services,Egypt,EMEA,Mid-Market,1000-4999,2021-05-25,S025
+A0399,Granite Textiles Group,Professional Services,Singapore,APAC,SMB,10-49,2022-07-13,S019
+A0400,Coral Energy Group,Retail,Saudi Arabia,EMEA,Mid-Market,250-999,2021-04-24,S013
+A0401,Prime Studios LLC,Healthcare,India,APAC,Mid-Market,1000-4999,2024-12-09,S024
+A0402,Nile Energy Holdings,Professional Services,Mexico,Americas,SMB,50-249,2021-10-15,S018
+A0403,Delta Media Holdings,Professional Services,Brazil,Americas,SMB,10-49,2024-06-25,S011
+A0404,Blue Systems Ltd,Retail,United Arab Emirates,EMEA,Mid-Market,250-999,2021-10-24,S002
+A0405,Nova Energy Inc.,Technology,Australia,APAC,SMB,10-49,2022-05-18,S032
+A0406,Atlas Foods LLC,Logistics,Canada,Americas,SMB,50-249,2023-08-02,S026
+A0407,Coral Labs LLC,Healthcare,Egypt,EMEA,Mid-Market,250-999,2024-07-13,S002
+A0408,Prime Retail Holdings,Technology,Germany,EMEA,SMB,10-49,2021-10-03,S031
+A0409,Granite Capital GmbH,Energy,United States,Americas,SMB,10-49,2021-11-27,S018
+A0410,Lumen Retail Co.,Education,United Arab Emirates,EMEA,SMB,50-249,2024-09-29,S008
+A0411,Vertex Consulting Co.,Healthcare,Japan,APAC,SMB,10-49,2022-05-15,S012
+A0412,Lumen Hotels LLC,Healthcare,France,EMEA,Mid-Market,1000-4999,2021-11-22,S025
+A0413,Blue Studios GmbH,Logistics,United States,Americas,SMB,10-49,2024-02-28,S034
+A0414,Nova Learning GmbH,Retail,Japan,APAC,SMB,50-249,2021-05-22,S032
+A0415,Summit Freight Inc.,Education,Brazil,Americas,SMB,10-49,2024-09-06,S022
+A0416,Falcon Logistics S.A.,Retail,Japan,APAC,Mid-Market,250-999,2024-09-20,S006
+A0417,Harbor Pharma LLC 416,Retail,Brazil,Americas,SMB,10-49,2024-08-21,S039
+A0418,Prime Capital Co.,Education,Saudi Arabia,EMEA,Mid-Market,250-999,2022-04-04,S038
+A0419,Sahara Systems Holdings,Technology,Brazil,Americas,Mid-Market,1000-4999,2021-06-27,S005
+A0420,Atlas Learning LLC,Hospitality,Brazil,Americas,Mid-Market,250-999,2022-10-22,S016
+A0421,Coral Consulting Group,Retail,Australia,APAC,Mid-Market,1000-4999,2022-06-03,S024
+A0422,Nova Capital S.A.,Healthcare,United States,Americas,Mid-Market,250-999,2025-01-27,S016
+A0423,North Foods Co.,Education,Canada,Americas,Mid-Market,250-999,2023-09-07,S016
+A0424,Prime Systems Inc.,Logistics,United States,Americas,SMB,10-49,2025-01-04,S011
+A0425,Atlas Health Inc.,Energy,Saudi Arabia,EMEA,Mid-Market,250-999,2024-03-10,S002
+A0426,Falcon Freight Holdings,Professional Services,India,APAC,SMB,50-249,2024-01-14,S012
+A0427,Delta Hotels LLC,Logistics,India,APAC,SMB,50-249,2021-06-23,S012
+A0428,Coral Textiles Ltd,Retail,Mexico,Americas,Mid-Market,250-999,2021-04-17,S033
+A0429,Falcon Logistics GmbH,Retail,Egypt,EMEA,Mid-Market,1000-4999,2021-03-14,S025
+A0430,Granite Textiles Group 429,Manufacturing,Mexico,Americas,Mid-Market,250-999,2023-07-10,S033
+A0431,Vertex Clinics Inc.,Professional Services,Egypt,EMEA,SMB,10-49,2021-11-09,S008
+A0432,North Retail Group,Financial Services,Japan,APAC,SMB,10-49,2025-03-15,S032
+A0433,Blue Energy Ltd,Healthcare,Saudi Arabia,EMEA,SMB,10-49,2021-07-25,S007
+A0434,Nova Motors LLC 433,Professional Services,United Kingdom,EMEA,SMB,10-49,2025-01-08,S031
+A0435,Harbor Labs Ltd,Hospitality,Canada,Americas,SMB,10-49,2023-11-02,S011
+A0436,North Systems Group,Education,Singapore,APAC,SMB,10-49,2021-06-14,S012
+A0437,Cedar Pharma Ltd,Hospitality,Germany,EMEA,SMB,50-249,2021-04-01,S001
+A0438,Granite Retail Co.,Technology,Brazil,Americas,Mid-Market,250-999,2022-09-07,S033
+A0439,Delta Markets GmbH,Technology,Canada,Americas,SMB,10-49,2022-06-10,S022
+A0440,Prime Consulting Ltd,Hospitality,Brazil,Americas,Mid-Market,1000-4999,2022-05-05,S009
+A0441,Prime Motors GmbH,Manufacturing,Mexico,Americas,Mid-Market,1000-4999,2023-03-31,S009
+A0442,Summit Clinics Ltd,Technology,Canada,Americas,SMB,50-249,2021-07-21,S036
+A0443,Summit Foods S.A.,Energy,Saudi Arabia,EMEA,SMB,50-249,2021-07-20,S008
+A0444,Nova Logistics Ltd,Energy,United Arab Emirates,EMEA,SMB,50-249,2023-12-14,S001
+A0445,Nile Retail Group,Logistics,Canada,Americas,Mid-Market,1000-4999,2025-03-16,S009
+A0446,Coral Media GmbH,Technology,United Arab Emirates,EMEA,SMB,10-49,2022-03-01,S008
+A0447,Pioneer Labs Ltd,Hospitality,India,APAC,SMB,50-249,2024-12-16,S023
+A0448,Zenith Studios LLC,Hospitality,South Africa,EMEA,Mid-Market,250-999,2022-06-19,S038
+A0449,North Freight Ltd,Hospitality,Egypt,EMEA,Mid-Market,1000-4999,2022-06-05,S002
+A0450,Lumen Retail Co. 449,Hospitality,Canada,Americas,SMB,10-49,2021-05-21,S036
+A0451,Silver Retail Ltd,Financial Services,Japan,APAC,SMB,10-49,2022-10-19,S012
+A0452,Prime Textiles Ltd,Technology,Mexico,Americas,SMB,10-49,2023-02-12,S034
+A0453,Sahara Pharma GmbH,Education,United States,Americas,SMB,10-49,2023-10-27,S026
+A0454,Zenith Learning Co.,Hospitality,India,APAC,SMB,50-249,2021-09-03,S019
+A0455,Prime Freight Inc.,Hospitality,Saudi Arabia,EMEA,SMB,50-249,2021-10-20,S017
+A0456,Zenith Media Co.,Energy,United Kingdom,EMEA,Mid-Market,250-999,2022-11-02,S015
+A0457,Nova Logistics LLC,Logistics,South Africa,EMEA,SMB,50-249,2021-04-19,S030
+A0458,Nile Freight GmbH,Education,United Arab Emirates,EMEA,Mid-Market,250-999,2021-08-11,S040
+A0459,Falcon Logistics Ltd,Manufacturing,United States,Americas,SMB,50-249,2023-09-03,S037
+A0460,Orbit Pharma Holdings,Professional Services,Canada,Americas,Mid-Market,250-999,2025-01-19,S009
+A0461,Pioneer Systems Group,Logistics,Mexico,Americas,Mid-Market,1000-4999,2023-06-08,S016
+A0462,Harbor Clinics LLC,Logistics,United States,Americas,Mid-Market,250-999,2021-08-13,S009
+A0463,Blue Retail Holdings,Professional Services,Singapore,APAC,Mid-Market,1000-4999,2025-03-18,S024
+A0464,North Studios Co.,Hospitality,United States,Americas,SMB,50-249,2023-03-21,S029
+A0465,Delta Markets LLC,Manufacturing,United Arab Emirates,EMEA,SMB,50-249,2024-01-17,S017
+A0466,Delta Motors GmbH 465,Education,South Africa,EMEA,SMB,50-249,2021-11-02,S010
+A0467,Atlas Foods Inc.,Technology,Egypt,EMEA,SMB,10-49,2023-06-17,S010
+A0468,Blue Industries Inc.,Hospitality,Saudi Arabia,EMEA,Mid-Market,250-999,2021-04-29,S021
+A0469,Harbor Learning LLC,Technology,South Africa,EMEA,SMB,50-249,2023-08-29,S027
+A0470,Lumen Capital S.A. 469,Technology,Australia,APAC,Mid-Market,1000-4999,2021-11-10,S006
+A0471,Atlas Motors Inc. 470,Hospitality,Egypt,EMEA,SMB,10-49,2024-11-11,S030
+A0472,North Motors LLC,Energy,Singapore,APAC,SMB,50-249,2021-03-26,S032
+A0473,Vertex Studios Inc.,Professional Services,Japan,APAC,SMB,10-49,2023-10-10,S019
+A0474,Pioneer Consulting Holdings,Healthcare,Germany,EMEA,Mid-Market,250-999,2021-08-05,S040
+A0475,Sahara Studios Co.,Logistics,Brazil,Americas,Mid-Market,1000-4999,2023-12-02,S005
+A0476,Lumen Textiles Holdings,Technology,United Kingdom,EMEA,SMB,50-249,2023-02-05,S035
+A0477,Sahara Hotels Ltd,Manufacturing,Brazil,Americas,SMB,50-249,2025-02-09,S022
+A0478,Blue Industries Ltd,Technology,United Arab Emirates,EMEA,Mid-Market,250-999,2023-10-08,S021
+A0479,Silver Health Holdings,Logistics,Japan,APAC,SMB,10-49,2022-07-31,S019
+A0480,North Pharma GmbH,Energy,South Africa,EMEA,Mid-Market,250-999,2021-05-16,S021
+A0481,Prime Freight Holdings,Healthcare,United Arab Emirates,EMEA,SMB,50-249,2023-07-14,S008
+A0482,Pioneer Labs Inc. 481,Energy,Mexico,Americas,SMB,50-249,2022-11-16,S036
+A0483,Falcon Health Group,Education,Japan,APAC,SMB,10-49,2021-03-23,S012
+A0484,Granite Systems GmbH,Logistics,Brazil,Americas,SMB,10-49,2023-06-21,S037
+A0485,Lumen Logistics Group,Professional Services,Canada,Americas,SMB,10-49,2021-11-22,S039
+A0486,Atlas Retail GmbH,Logistics,Canada,Americas,SMB,10-49,2021-12-30,S029
+A0487,Sahara Systems Inc.,Energy,Mexico,Americas,Mid-Market,250-999,2021-01-14,S016
+A0488,Sahara Logistics Group,Manufacturing,United Arab Emirates,EMEA,SMB,50-249,2022-08-01,S027
+A0489,Atlas Learning LLC 488,Technology,Netherlands,EMEA,SMB,10-49,2021-12-05,S007
+A0490,Delta Capital Group,Energy,Mexico,Americas,SMB,50-249,2021-04-22,S036
+A0491,Zenith Learning S.A.,Healthcare,Brazil,Americas,SMB,10-49,2022-11-05,S022
+A0492,Prime Systems Co.,Healthcare,Canada,Americas,SMB,50-249,2021-12-08,S034
+A0493,Nova Media LLC,Education,Brazil,Americas,SMB,10-49,2021-07-28,S026
+A0494,Cedar Industries Ltd,Technology,United States,Americas,Mid-Market,1000-4999,2022-12-25,S016
+A0495,Delta Textiles GmbH,Energy,South Africa,EMEA,SMB,50-249,2021-04-09,S030
+A0496,North Textiles LLC,Technology,Canada,Americas,Mid-Market,1000-4999,2025-03-17,S005
+A0497,Blue Health S.A.,Technology,United States,Americas,SMB,50-249,2023-01-01,S034
+A0498,Zenith Industries GmbH,Education,Mexico,Americas,Mid-Market,250-999,2025-03-26,S009
+A0499,Silver Energy Co.,Professional Services,France,EMEA,SMB,10-49,2024-09-28,S008
+A0500,Nova Learning Holdings,Healthcare,Brazil,Americas,SMB,10-49,2025-02-28,S029
